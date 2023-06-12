@@ -1,4 +1,4 @@
-# Stock News Scraper & Summarizer with BeautifulSoup and NewsAPI # Felix GG
+# Stock News Scraper & Summarizer with BeautifulSoup and NewsAPI | Felix GG
 
 ## Description
 This is a simple Python script that scrapes the latest news articles from the [Yahoo Finance](https://finance.yahoo.com/) website and summarizes them using the [NewsAPI](https://newsapi.org/) API. The script is designed to be run on a daily basis to provide a quick summary of the latest news articles for a given stock ticker.
